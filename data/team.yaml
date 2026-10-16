@@ -6,7 +6,7 @@
 
 professors:
   - name: "Dimitri GILIS"
-    role: "Professor"
+    role: "Head of 3BIO-BioInfo, Full Professor"
     email: "dimitri.gilis@ulb.be"
     photo: "/images/team/dimitri_gilis.jpg"
     bio: "ectetur adipiscing elit. Donec pharetra at lectus sit amet imperdiet. Proin sit amet justo eu sapien commodo efficitur eget ac neque. Duis ut leo urna. Sed vulputate mauris quis massa convallis eleifend. Suspendisse sit amet dapibus elit, ac varius felis. Phasellus sed tincidunt lectus, non luctus risus. Suspendisse "
@@ -17,7 +17,7 @@ professors:
 
 
   - name: "Fabrizio PUCCI"
-    role: "Head of 3BIO-BioInfo, Professor & FNRS Research Director"
+    role: "Professor"
     email: "fabrizio.pucci@ulb.be"
     phone: "+32 (0)2 650 31 80"
     office: "S.UD3.202"
@@ -29,7 +29,7 @@ professors:
     orcid: "https://orcid.org/0000-0000-0000-0000"
 
   - name: "Marianne ROOMAN"
-    role: "Professor & FNRS Research Director"
+    role: "Emeritus Professor"
     email: "marianne.rooman@ulb.be"
     phone: "+32 (0)2 650 20 67"
     office: "S.UD3.204"
