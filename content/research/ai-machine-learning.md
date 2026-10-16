@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence & Machine Learning"
+title: "LLLntelligence & Machine Learning"
 date: 2024-01-01
 ---
 
